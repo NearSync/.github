@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="116 138 266 222" width="266" height="222" role="img" aria-label="NearSync">
+  <!-- NearSync mark - three strokes: / \ / (a slanted N and a sync wave). Brand green #16a34a. -->
+  <g stroke="#16a34a" stroke-width="28" stroke-linecap="round" fill="none">
+    <line x1="183" y1="148" x2="139" y2="350"/>
+    <line x1="227" y1="148" x2="272" y2="350"/>
+    <line x1="359" y1="148" x2="315" y2="350"/>
+  </g>
+</svg>
